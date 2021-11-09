@@ -1,0 +1,84 @@
+package selfprogramming;
+
+public class Javacodemulltipleselection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a =15;
+		
+		if (a>=1)
+		{
+			  System.out.println ("The number you enter is :" + a);
+			  System.out.println ("You enter the positive number");	
+	  }		
+		else if (a<0)
+		{	
+			  System.out.println ("The number you enter is :" + a);
+			  System.out.println ("You enter the negative number");	
+	  }
+		else 
+		{	
+			  System.out.println ("The number you enter is :" + 0);
+			  System.out.println ("You enter the zero number");	
+		}
+
+	}
+
+}
+
+package selfprogramming;
+
+public class Javacodemulltipleselection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+int b=-15;
+if (b>=1)
+{
+	  System.out.println ("The number you enter is :" + b);
+	  System.out.println ("You enter the positive number");	
+}		
+else if (b<0)
+{	
+	  System.out.println ("The number you enter is :" + b);
+	  System.out.println ("You enter the negative number");	
+}
+else 
+{	
+	  System.out.println ("The number you enter is :" + 0);
+	  System.out.println ("You enter the zero number");	
+}
+
+}}
+
+package selfprogramming;
+
+public class Javacodemulltipleselection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+int c=0;
+if (c>=1)
+{
+	  System.out.println ("The number you enter is :" + c);
+	  System.out.println ("You enter the positive number");	
+}		
+else if (c<0)
+{	
+	  System.out.println ("The number you enter is :" + c);
+	  System.out.println ("You enter the negative number");	
+}
+else 
+{	
+	  System.out.println ("The number you enter is :" + 0);
+	  System.out.println ("You enter the zero number");	
+}
+
+}}
+
+
+
