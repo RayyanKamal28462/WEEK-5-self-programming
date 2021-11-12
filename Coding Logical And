@@ -1,0 +1,22 @@
+package selfprogramming;
+
+public class Logicaland {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 int x = 5, y = 7, z = 9;
+		  
+	        System.out.println("For && operator");
+	        if ((x > y) && (x++ > z))
+	            ;
+	        else
+	            System.out.println("Value of x: " + x);
+	  
+	        System.out.println("For & operator");
+	        if ((x > y) & (x++ > z))
+	            ;
+	        else
+	            System.out.println("Value of x: " + x);
+	}
+
+}
