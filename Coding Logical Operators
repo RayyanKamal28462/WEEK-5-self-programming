@@ -1,0 +1,15 @@
+package selfprogramming;
+
+public class LogicalOperators {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if  ((999.0 <= 1000.0) && (999.0 <= 9999.0))
+		{   
+		double	balance = 9999.0 - 999.0;
+		System.out.println("Acct new balance = " + balance);
+		}
+
+	}
+
+}
