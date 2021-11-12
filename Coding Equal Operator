@@ -1,0 +1,15 @@
+package selfprogramming;
+
+public class Equaltooperator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 4;
+        int b = 4;
+        int c = 5;
+        
+        System.out.println("Are " + a + " and " + b + " equal? "+ (a == b));
+        System.out.println("Are " + b+ " and " + c + " equal? "+ (b == c));
+	}
+
+}
